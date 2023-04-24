@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>HealthCare</h1>
+    <h1>HealthCare Institue</h1>
 </body>
 
 </html>
